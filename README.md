@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hi there, I'm Daniel "danielo535"
 
-<!--
-**danielo535/danielo535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://discord.c99.nl/widget/theme-1/812125569474887691.png">
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 ┆ Statistics
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=danielo535# Hi there, I'm Daniel "danielo535"
+
+<img src="https://discord.c99.nl/widget/theme-1/812125569474887691.png">
+
+###
+
+### 📊 ┆ Statistics
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=danielo535&show_icons=true&include_all_commits&theme=dracula" />
+
+<br />
+
+### 🧠 ┆ Languages
+
+<img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?&# Hi there, I'm Daniel "danielo535"
+
+<img src="https://discord.c99.nl/widget/theme-1/812125569474887691.png">
+
+###
+
+### 📊 ┆ Statistics
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=danielo535&show_icons=true&include_all_commits&theme=dracula" />
+
+<br />
+
+### 🧠 ┆ Languages
+
+<img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/html-%23ED8B00.svg?&style=for-the-badge&logo=html&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/css-%23ED8B00.svg?&style=for-the-badge&logo=css&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/sass-%23ED8B00.svg?&style=for-the-badge&logo=sass&logoColor=white"/>style=for-the-badge&logo=java&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/html-%23ED8B00.svg?&style=for-the-badge&logo=html&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/css-%23ED8B00.svg?&style=for-the-badge&logo=css&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/sass-%23ED8B00.svg?&style=for-the-badge&logo=sass&logoColor=white"/>&show_icons=true&include_all_commits&theme=dracula" />
+
+<br />
+
+### 🧠 ┆ Languages
+
+<img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/html-%23ED8B00.svg?&style=for-the-badge&logo=html&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/css-%23ED8B00.svg?&style=for-the-badge&logo=css&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/sass-%23ED8B00.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
