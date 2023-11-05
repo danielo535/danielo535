@@ -1,6 +1,5 @@
 # Hi there, I'm Daniel "danielo535"
 
-<img src="https://discord.c99.nl/widget/theme-1/812125569474887691.png">
 
 ###
 
