@@ -5,8 +5,10 @@
 ###
 
 ### 📊 ┆ Statistics
+<img src="https://komarev.com/ghpvc/?username=danielo535&label=PROFILE+VIEWS" alt="danielo535" /> 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fdanielo535.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=HOME+PAGE+VIEWS&edge_flat=false"/> <img align="center" src="https://github-readme-stats.vercel.app/api/?username=danielo535&show_icons=true&include_all_commits&theme=dracula" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=danielo535&show_icons=true&include_all_commits&theme=dracula" />
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielo535&hide=scss&layout=compact&theme=tokyonight)
 
 <br />
 
