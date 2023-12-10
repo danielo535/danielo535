@@ -11,5 +11,4 @@
 <br />
 
 ### 🧠 ┆ Languages
-
-<img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/html-%23ED8B00.svg?&style=for-the-badge&logo=html&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/css-%23ED8B00.svg?&style=for-the-badge&logo=css&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/sass-%23ED8B00.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
+<img align="center" src="https://skillicons.dev/icons?i=java,html,css,sass,idea,vscode"/>
