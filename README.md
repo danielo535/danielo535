@@ -12,4 +12,10 @@
 <br />
 
 ### 🧠 ┆ Languages
-<img align="center" src="https://skillicons.dev/icons?i=java,html,css,sass,idea,vscode"/>
+<img align="center" src="https://skillicons.dev/icons?i=java,html,css,sass"/>
+
+### 🧠 ┆ Learning
+<img align="center" src="https://skillicons.dev/icons?i=angular,js,mysql"/>
+
+### 🫠 ┆ Tools
+<img align="center" src="https://skillicons.dev/icons?i=idea,vscode"/>
