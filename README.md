@@ -18,4 +18,4 @@
 <img align="center" src="https://skillicons.dev/icons?i=angular,js,mysql"/>
 
 ### 🫠 ┆ Tools
-<img align="center" src="https://skillicons.dev/icons?i=idea,vscode"/>
+<img align="center" src="https://skillicons.dev/icons?i=idea,vscode,github,discord"/>
