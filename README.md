@@ -57,5 +57,5 @@ I'm a passionate developer! 🚀
 ### 🏆 ┆ GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=danielo535&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)
 
-### 👀 ┆ Profile Views
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=danielo535.danielo535)
+### 👀 ┆ Profile Statistic
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=danielo535.danielo535) [![wakatime](https://wakatime.com/badge/user/018deaf3-07e4-427e-bf2f-2388741db137.svg)](https://wakatime.com/@018deaf3-07e4-427e-bf2f-2388741db137)
